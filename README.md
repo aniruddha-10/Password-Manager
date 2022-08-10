@@ -1,6 +1,4 @@
-
-![Safe pass](https://user-images.githubusercontent.com/91339174/183839884-6169a7c1-c0fd-4320-8bea-91c11a3cc346.png)
-
+![WhatsApp Image 2022-08-10 at 1 55 44 AM](https://user-images.githubusercontent.com/91339174/183846832-8b5edf43-4c31-4269-b67b-80235791f5a6.jpeg)
 # Password Manager using JavaFX
 
 We have developed a fairly simple and easy to use GUI of a Password Manager.
@@ -39,7 +37,6 @@ To deploy this project :
 - [@aniruddha-10](https://github.com/aniruddha-10)
 - [@Ibycodes](https://github.com/IbyCodes)
 - [@Astroboy1011](https://github.com/Astroboy1011)
-
 
 
 
